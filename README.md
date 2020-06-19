@@ -10,7 +10,7 @@ De preferência insira antes dos seus demais scripts (ou na tag `<head>`) e dent
 </script>
 ```
   
-Usei imagens em base64 e CSS dentro da tag `<style>` pois a intenção é ter um único arquivo `ie.html`, sem dependências e sem alteração desnecessária no código original. Mas podem ser facilmente re-convertidas em sites de "base64 to image".
+Usei imagens em base64 e CSS dentro da tag `<style>` pois a intenção é ter um único arquivo `ie.html`, sem dependências e sem alteração desnecessária no código original. Mas podem ser facilmente re-convertidas abrindo no navegador e clicando em "Salvar Imagem".
 
 ####Demo
 
