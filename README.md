@@ -2,7 +2,7 @@
 Página de aviso para o usuário deixar o Internet Explorer e baixar outro navegador.
 
 Basta inserir a linha abaixo dentro do seu `index.html`.
-De preferência insira antes dos demais scripts e dentro de sua tag `<script>` especifica, pois se o restante do código javascript quebrar, o IE pode não executar essa linha.
+De preferência insira antes dos seus demais scripts (ou na tag `<head>`) e dentro de sua tag `<script>` especifica para ele, pois se o restante do código javascript quebrar, o IE pode não executar essa linha.
   
 ```
 <script type="application/javascript">
@@ -14,6 +14,6 @@ Usei imagens em base64 e CSS dentro da tag `<style>` pois a intenção é ter um
 
 ####Demo
 
-[Redirecionador](https://maycowmoura.github.io/nao-use-ie/) (acesse usando o Internet Explorer)
+[Redirecionador](https://maycowmoura.github.io/nao-use-ie/redirector.html) (acesse usando o Internet Explorer)
 
 [Página de Aviso](https://maycowmoura.github.io/nao-use-ie/ie.html)
